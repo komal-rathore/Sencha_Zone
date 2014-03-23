@@ -11,7 +11,7 @@
 */
 //We've added a third and final item to our tab panel - scroll down to see it
 Ext.application({
-    name: 'GS',
+    name: 'Sencha_Zone',
 
     launch: function() {
         Ext.create("Ext.tab.Panel", {
